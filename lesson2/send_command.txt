@@ -1,0 +1,5 @@
+command
+takeoff
+cw 30
+land
+end
