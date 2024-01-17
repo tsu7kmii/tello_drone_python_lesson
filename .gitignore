@@ -1,11 +1,11 @@
 /lesson4/img4/**
-/lesson4/img4/**/
-/lesson4/img4/**/.gitkeep
+!/lesson4/img4/**/
+!/lesson4/img4/**/.gitkeep
 
 /lesson5/img5/**
-/lesson5/img5/**/
-/lesson5/img5/**/.gitkeep
+!/lesson5/img5/**/
+!/lesson5/img5/**/.gitkeep
 
 /lesson6/img6/**
-/lesson6/img6/**/
-/lesson6/img6/**/.gitkeep
+!/lesson6/img6/**/
+!/lesson6/img6/**/.gitkeep
